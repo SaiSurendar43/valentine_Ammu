@@ -73,7 +73,7 @@ const ValentinePage = () => {
       bg: "/img3.jpg",
       src: "/song3.mp3",
     },
-
+   
   ];
 
   const photos = [
@@ -731,21 +731,14 @@ const styles = {
   },
   songCard: {
     padding: "18px 16px",
-    borderRadius: "20px",
+    borderRadius: "16px",
     cursor: "pointer",
     transition: "all 0.3s ease",
     color: "#fff",
     position: "relative",
-    boxShadow: "0 10px 25px rgba(0, 0, 0, 0.4)",
+    boxShadow: "0 8px 20px rgba(0, 0, 0, 0.35)",
     border: "1px solid rgba(255,255,255,0.35)",
     overflow: "hidden",
-    aspectRatio: "1 / 1",// 🔥 taller like Spotify cover
-    display: "flex",
-    alignItems: "flex-end",
-    backgroundSize: "cover",
-    backgroundPosition: "center",
-    backgroundRepeat: "no-repeat",
-    imageRendering: "auto",
   },
   songCardActive: {
     transform: "scale(1.04)",
