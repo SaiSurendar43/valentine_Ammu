@@ -65,7 +65,7 @@ const ValentinePage = () => {
       title: "Kadhala kadhala",
       thumbnail: "💿",
       bg: "/img4.jpg",
-      src: "/song5.mp3",
+      src: "/song.mp3",
     },
     {
       title: "Oru pathi Kathavu",
