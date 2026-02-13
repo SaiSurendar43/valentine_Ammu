@@ -62,17 +62,18 @@ const ValentinePage = () => {
       src: "/song2.mp3",
     },
     {
-      title: "Oru pathi Kathavu",
-      thumbnail: "🎼",
-      bg: "/img3.jpg",
-      src: "/song3.mp3",
-    },
-    {
       title: "Kadhala kadhala",
       thumbnail: "💿",
       bg: "/img4.jpg",
       src: "/song5.mp3",
     },
+    {
+      title: "Oru pathi Kathavu",
+      thumbnail: "🎼",
+      bg: "/img3.jpg",
+      src: "/song3.mp3",
+    },
+   
   ];
 
   const photos = [
